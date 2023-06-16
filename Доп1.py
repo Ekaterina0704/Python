@@ -13,3 +13,4 @@ while n <len(A):
     sum=sum+A[n]
     n=n+2
 print(sum)
+

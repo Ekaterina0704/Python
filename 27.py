@@ -1,0 +1,1 @@
+print(len(set(input("Введите текст: ").lower().split())))
